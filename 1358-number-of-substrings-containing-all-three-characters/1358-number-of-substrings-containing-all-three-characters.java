@@ -1,7 +1,7 @@
 class Solution {
     public int numberOfSubstrings(String s) {
-        int right=0;
         int left=0;
+        int right=0;
         int[] count=new int[3];
         int num=0;
         while(right<s.length()){
@@ -14,5 +14,6 @@ class Solution {
             right++;
         }
         return num;
+        
     }
 }
