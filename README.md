@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0817-linked-list-components](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0817-linked-list-components) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Math
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0264-ugly-number-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
