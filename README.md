@@ -45,11 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0264-ugly-number-ii) |
+| [1492-the-kth-factor-of-n](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/1492-the-kth-factor-of-n) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Number Theory
 |  |
 | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/1492-the-kth-factor-of-n) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Sorting
 |  |
