@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0264-ugly-number-ii) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Number Theory
 |  |
 | ------- |
