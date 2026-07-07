@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0090-subsets-ii) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0414-third-maximum-number](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0414-third-maximum-number) |
 | [0525-contiguous-array](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0525-contiguous-array) |
 | [0817-linked-list-components](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0817-linked-list-components) |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0686-repeated-string-match) |
+## Binary Search
+|  |
+| ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
