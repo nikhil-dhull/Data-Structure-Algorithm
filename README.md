@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0567-permutation-in-string) |
 | [0817-linked-list-components](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0817-linked-list-components) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2405-optimal-partition-of-string](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/2405-optimal-partition-of-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2405-optimal-partition-of-string](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/2405-optimal-partition-of-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0024-swap-nodes-in-pairs) |
+## Greedy
+|  |
+| ------- |
+| [2405-optimal-partition-of-string](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/2405-optimal-partition-of-string) |
 <!---LeetCode Topics End-->
