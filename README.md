@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0414-third-maximum-number) |
 | [0525-contiguous-array](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0525-contiguous-array) |
 | [0817-linked-list-components](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0817-linked-list-components) |
+| [3101-count-alternating-subarrays](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/3101-count-alternating-subarrays) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0264-ugly-number-ii) |
 | [1492-the-kth-factor-of-n](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/1492-the-kth-factor-of-n) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3101-count-alternating-subarrays](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/3101-count-alternating-subarrays) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Number Theory
 |  |
