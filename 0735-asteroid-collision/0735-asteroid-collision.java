@@ -4,11 +4,11 @@ class Solution {
         for(int ast:asteroids ){
             boolean isAlive=true;
             while(!st.isEmpty() && st.peek()>0 && ast<0){
-                if(st.peek()< -ast){
+                if(st.peek()< Math.abs(ast)){
                     st.pop();
                     
                 }
-                else if(st.peek()== -ast){
+                else if(st.peek()== Math.abs(ast)){
                     st.pop();
                     isAlive=false;
                     break;
