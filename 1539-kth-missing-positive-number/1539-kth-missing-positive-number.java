@@ -13,4 +13,15 @@ class Solution {
         }
         return high+1+k;
     }
+    //oh math kya bani?
+
+// Answer = arr[high] + (k - miss)
+
+// Isme miss ki value (arr[high] - high - 1) daal do:
+
+// Answer = arr[high] + k - (arr[high] - high - 1)
+
+// arr[high] se arr[high] cut gaya! 🤯
+
+// Bachega kya? high + 1 + k
 }
