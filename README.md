@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0525-contiguous-array) |
 | [0735-asteroid-collision](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0735-asteroid-collision) |
 | [0817-linked-list-components](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0817-linked-list-components) |
+| [1331-rank-transform-of-an-array](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/1331-rank-transform-of-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3101-count-alternating-subarrays](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/3101-count-alternating-subarrays) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0567-permutation-in-string) |
 | [0817-linked-list-components](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0817-linked-list-components) |
+| [1331-rank-transform-of-an-array](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2405-optimal-partition-of-string](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/2405-optimal-partition-of-string) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0414-third-maximum-number) |
+| [1331-rank-transform-of-an-array](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/1331-rank-transform-of-an-array) |
 ## Backtracking
 |  |
 | ------- |
