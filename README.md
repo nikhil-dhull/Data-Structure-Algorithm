@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0090-subsets-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0414-third-maximum-number](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0414-third-maximum-number) |
+| [0503-next-greater-element-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0525-contiguous-array) |
 | [0735-asteroid-collision](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0735-asteroid-collision) |
 | [0817-linked-list-components](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0817-linked-list-components) |
@@ -150,10 +151,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0071-simplify-path) |
+| [0503-next-greater-element-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0735-asteroid-collision) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0043-multiply-strings) |
 | [0735-asteroid-collision](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0735-asteroid-collision) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
