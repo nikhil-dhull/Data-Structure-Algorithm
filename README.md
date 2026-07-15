@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0090-subsets-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0414-third-maximum-number](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0414-third-maximum-number) |
+| [0496-next-greater-element-i](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0525-contiguous-array) |
 | [0735-asteroid-collision](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0735-asteroid-collision) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0264-ugly-number-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0264-ugly-number-ii) |
+| [0496-next-greater-element-i](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0567-permutation-in-string) |
 | [0817-linked-list-components](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0817-linked-list-components) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0071-simplify-path) |
+| [0496-next-greater-element-i](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0735-asteroid-collision) |
 ## Simulation
@@ -161,5 +164,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
