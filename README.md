@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0567-permutation-in-string) |
 | [0686-repeated-string-match](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0686-repeated-string-match) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/1903-largest-odd-number-in-string) |
 | [2405-optimal-partition-of-string](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/2405-optimal-partition-of-string) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0735-asteroid-collision) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
 |  |
 | ------- |
