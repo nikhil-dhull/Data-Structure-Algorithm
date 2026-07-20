@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0264-ugly-number-ii) |
 | [1492-the-kth-factor-of-n](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/1492-the-kth-factor-of-n) |
 | [1903-largest-odd-number-in-string](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/1922-count-good-numbers) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3101-count-alternating-subarrays](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/3101-count-alternating-subarrays) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0206-reverse-linked-list) |
+| [1922-count-good-numbers](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/1922-count-good-numbers) |
 ## Greedy
 |  |
 | ------- |
