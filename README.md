@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0090-subsets-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
