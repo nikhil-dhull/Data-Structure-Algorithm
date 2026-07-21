@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0090-subsets-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0414-third-maximum-number](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0414-third-maximum-number) |
+| [0491-non-decreasing-subsequences](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0525-contiguous-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0264-ugly-number-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0264-ugly-number-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0567-permutation-in-string) |
@@ -107,11 +109,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0090-subsets-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0491-non-decreasing-subsequences) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0090-subsets-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0491-non-decreasing-subsequences) |
 ## Dynamic Programming
 |  |
 | ------- |
