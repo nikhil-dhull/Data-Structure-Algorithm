@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0042-trapping-rain-water) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0043-multiply-strings) |
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0950-reveal-cards-in-increasing-order) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
