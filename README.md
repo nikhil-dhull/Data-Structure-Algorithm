@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0125-valid-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0316-remove-duplicate-letters) |
 | [0443-string-compression](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0567-permutation-in-string) |
 | [0686-repeated-string-match](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0686-repeated-string-match) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0686-repeated-string-match) |
 ## Binary Search
 |  |
