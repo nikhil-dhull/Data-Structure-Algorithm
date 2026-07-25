@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/1922-count-good-numbers) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3101-count-alternating-subarrays](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/3101-count-alternating-subarrays) |
+| [3536-maximum-product-of-two-digits](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Number Theory
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0414-third-maximum-number) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/1331-rank-transform-of-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/3536-maximum-product-of-two-digits) |
 ## Backtracking
 |  |
 | ------- |
