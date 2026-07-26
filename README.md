@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0525-contiguous-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0735-asteroid-collision) |
 | [0817-linked-list-components](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0817-linked-list-components) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0043-multiply-strings) |
 | [0264-ugly-number-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0264-ugly-number-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [1492-the-kth-factor-of-n](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/1492-the-kth-factor-of-n) |
 | [1903-largest-odd-number-in-string](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/1922-count-good-numbers) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/3536-maximum-product-of-two-digits) |
