@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/1903-largest-odd-number-in-string) |
 | [2405-optimal-partition-of-string](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/2405-optimal-partition-of-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/3536-maximum-product-of-two-digits) |
 ## Backtracking
 |  |
@@ -225,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0014-longest-common-prefix) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
