@@ -15,24 +15,22 @@
  */
 class Solution {
     
-    public void f(TreeNode root,List<TreeNode> list){
-        if(root==null) return;
-        list.add(root);
-        f(root.left,list);
-        f(root.right,list);
-    } 
+    
     public void flatten(TreeNode root) {
-        if(root==null) return;
-       List<TreeNode> list=new ArrayList<>();
-        f(root,list);
-        for(int i=0;i<list.size()-1;i++){
-            TreeNode curr=list.get(i);
-            curr.left=null;
-            curr.right=list.get(i+1);
+        TreeNode curr=root;
+        while(curr!=null){
+            if(curr.left!=null){
+                TreeNode temp=curr.left;
+                while(temp.right!=null){
+                    temp=temp.right;
+                }
+                temp.right=curr.right;
+                curr.right=curr.left;
+                curr.left=null;
+            }
+            curr=curr.right;
         }
-        TreeNode last= list.get(list.size()-1);
-        last.right=null;
-        last.left=null;
+
 
     }
 }
