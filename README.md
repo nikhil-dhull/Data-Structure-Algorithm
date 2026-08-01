@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0206-reverse-linked-list) |
 | [0817-linked-list-components](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0817-linked-list-components) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0496-next-greater-element-i) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0199-binary-tree-right-side-view) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0199-binary-tree-right-side-view) |
@@ -274,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0199-binary-tree-right-side-view) |
