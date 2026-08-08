@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0113-path-sum-ii) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0113-path-sum-ii) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
