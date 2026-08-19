@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0735-asteroid-collision) |
 | [0817-linked-list-components](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0817-linked-list-components) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0973-k-closest-points-to-origin](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/1539-kth-missing-positive-number) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0043-multiply-strings) |
 | [0264-ugly-number-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0264-ugly-number-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
+| [0973-k-closest-points-to-origin](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0973-k-closest-points-to-origin) |
 | [1492-the-kth-factor-of-n](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/1492-the-kth-factor-of-n) |
 | [1903-largest-odd-number-in-string](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/1922-count-good-numbers) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0973-k-closest-points-to-origin](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
@@ -208,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0973-k-closest-points-to-origin) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -370,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0973-k-closest-points-to-origin) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -378,4 +384,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0347-top-k-frequent-elements) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
