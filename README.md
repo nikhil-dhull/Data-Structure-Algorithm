@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0414-third-maximum-number) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0491-non-decreasing-subsequences](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0491-non-decreasing-subsequences) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0414-third-maximum-number) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0973-k-closest-points-to-origin) |
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Stack
@@ -392,4 +397,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0973-k-closest-points-to-origin) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
