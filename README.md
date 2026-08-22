@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0040-combination-sum-ii) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/1903-largest-odd-number-in-string) |
