@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0169-majority-element) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0347-top-k-frequent-elements) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0169-majority-element) |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -334,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nikhil-dhull/Data-Structure-Algorithm/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
